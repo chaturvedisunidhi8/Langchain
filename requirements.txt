@@ -1,0 +1,18 @@
+##for folder no.25
+
+langchain ##must be written as it is otherwise requirement.txt will not get installed 
+## Note --- PyPi 
+##PyPI uses lowercase package names. Python package names are case-sensitive in requirements.txt.
+##PyPi---- stands python package index
+python-dotenv
+langchain-community
+pypdf
+beautifulsoup4   ##bs4
+langchain-text-splitters
+##faiss-cpu
+langchain-openai
+##chroma 
+sentence_transformers
+langchain_huggingface
+langchain_chroma  #seperately
+ipykernel
