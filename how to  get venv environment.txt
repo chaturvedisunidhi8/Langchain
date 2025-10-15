@@ -1,0 +1,36 @@
+#'''## Step 1: Open terminal in VS Code
+
+#Open your Langchain folder in VS Code.
+
+##Open a new terminal (Terminal → New Terminal).
+
+#Make sure you’re in the project root:C:\sunidhi\vscode\Langchain>
+
+
+##step--2
+#python -m venv venv
+
+##step--3
+#IN POWERSHELL
+#-----(default in VS Code):
+#
+#.\venv\Scripts\activate
+#
+#-----⚠️ If you see a "running scripts is disabled" error, use:
+#
+#.\venv\Scripts\activate.bat
+#
+#----or temporarily allow scripts with:
+#
+#Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+#
+#IN COMMAND PROMPT
+#---- venv\Scripts\activate.bat
+#
+#IN source venv/Scripts/activate
+#
+#step4---After activation, your terminal prompt will look like:
+#
+#(venv) C:\sunidhi\vscode\Langchain> '''
+
+#pip show  anypckgname
